@@ -1,0 +1,12 @@
+rclone.conf
+*.token
+*.key
+*.pem
+.env
+.env.*
+credentials.json
+client_secret*.json
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
